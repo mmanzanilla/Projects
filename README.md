@@ -23,8 +23,8 @@
     <div id=Linux>       
         <h3>Linux folder contains</h3>
           <ul>
-            <li>script for loss.sh for Luckky Duck Investigations</li>
-            <li>script for roulette dealer finder by name</li> 
+            <li>script for loss.sh for Lucky Duck Investigations</li>
+            <li>script for roulette_dealer_finder_by_name.sh for Lucky Duck Investigations</li> 
             <li>script for loops</li>
           </ul>
     </div>
