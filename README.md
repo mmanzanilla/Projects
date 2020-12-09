@@ -1,8 +1,7 @@
-# Projects
-CS class projects and assignments
+<h1>Projects</h1>
+<h2>CS class projects and assignments<h2>
 
-
-<h2>**Ansible folder contains the following ymls**<h2> 
+<h3>Ansible folder contains the following ymls<h3> 
 <ul>
   <li>1. install elk with docker</li>
   <li>2. configure web vm with docker</li>
