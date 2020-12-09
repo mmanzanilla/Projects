@@ -3,8 +3,8 @@
   <div id="introduction"> 
     <h2>CS Class Assignments and Projects<h2>
     <p>Ansible ymls, Diagrams, and Bash scripts are in this Repository</p>
-      </div>
-    <div id="Ansible">
+   </div>    
+   <div id="Ansible">
         <h3>Ansible folder contains the following ymls<h3> 
           <ul>
             <li>install elk with docker</li>
