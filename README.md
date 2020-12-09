@@ -5,7 +5,7 @@
     <p>Ansible ymls, Diagrams, and Bash scripts are in this Repository</p>
    </div>    
    <div id="Ansible">
-        <h3>Ansible folder contains the following ymls<h3> 
+        <h3>Ansible folder contains the following ymls</h3> 
           <ul>
             <li>install elk with docker</li>
             <li>configure web vm with docker</li>
